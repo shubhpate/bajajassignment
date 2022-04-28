@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bajajfinserver.bean.FilterArrayResponse;
-import com.bajajfinserver.dto.FilterArrayDto;
-import com.bajajfinserver.service.FilterArrayService;
+import com.bajajfinserve.bean.FilterArrayResponse;
+import com.bajajfinserve.dto.FilterArrayDto;
+import com.bajajfinserve.service.FilterArrayService;
 
 /**
  * 
